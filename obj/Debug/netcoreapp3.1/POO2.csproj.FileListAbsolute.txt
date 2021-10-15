@@ -1,0 +1,14 @@
+C:\repo\POO2\bin\Debug\netcoreapp3.1\POO2.exe
+C:\repo\POO2\bin\Debug\netcoreapp3.1\POO2.deps.json
+C:\repo\POO2\bin\Debug\netcoreapp3.1\POO2.runtimeconfig.json
+C:\repo\POO2\bin\Debug\netcoreapp3.1\POO2.runtimeconfig.dev.json
+C:\repo\POO2\bin\Debug\netcoreapp3.1\POO2.dll
+C:\repo\POO2\bin\Debug\netcoreapp3.1\POO2.pdb
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.AssemblyInfoInputs.cache
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.AssemblyInfo.cs
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.csproj.CoreCompileInputs.cache
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.dll
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.pdb
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.genruntimeconfig.cache
+C:\repo\POO2\obj\Debug\netcoreapp3.1\POO2.csproj.AssemblyReference.cache
